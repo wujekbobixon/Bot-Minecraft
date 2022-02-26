@@ -1,0 +1,22 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "framing": "^3.1.1",
+    "mc": "^1.0.6",
+    "mineflayer": "^3.15.0",
+    "mineflayer-pathfinder": "^1.9.1",
+    "mineflayer-pvp": "^1.0.2",
+    "mineflayer-web-inventory": "^1.6.3",
+    "prompt-sync": "^4.2.0",
+    "wait-until": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
