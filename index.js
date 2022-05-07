@@ -49,7 +49,7 @@ var options = {
 
 
   bot.on('login', ()=>{
-       setTimeout(()=>{bot.chat("/login matusik")
+       setTimeout(()=>{bot.chat("")
       bot.on("windowOpen",()=>{
         bot.clickWindow(10, 1, 0)
       })
